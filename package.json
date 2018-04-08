@@ -1,0 +1,15 @@
+{
+  "name": "big-bird",
+  "version": "0.0.1",
+  "description": "it is a big bird",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Cameron-Neighbour",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "return-deep-diff": "^0.2.9"
+  }
+}
